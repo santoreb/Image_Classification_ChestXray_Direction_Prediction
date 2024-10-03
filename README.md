@@ -1,1 +1,1 @@
-# Image_Classification_ChestXray_Direction_Prediction
+# Image Classification for ChestXray Direction Prediction
