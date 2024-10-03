@@ -12,4 +12,5 @@ To train the model, I created data loaders of size 10 and I ran 10 epochs. That 
 
 ## References
 [1] http://db.jsrt.or.jp/eng.php
+
 [2] http://imgcom.jsrt.or.jp/minijsrtdb/
